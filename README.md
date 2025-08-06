@@ -12,7 +12,7 @@
     <tr>
       <!-- Left: About Text -->
       <td align="left" width="60%">
-        <h3>About Me:</h3>
+        <h2>About Me:</h2>
         <ul>
           <li> I'm a Computer Science Student at UCLA, who loves building user-first web apps and exploring product strategy.</li>
           &nbsp;&nbsp;<i>👉 Fast learner / Active listener / Team-oriented</i>
