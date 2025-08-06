@@ -1,20 +1,39 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Yu-Ting Hou</h1>
 
- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<p align="center">
+  🎓 CS Student
+</p>
 
+<hr/>
 
+<!-- About Me Section -->
+<div align="center">
+  <table>
+    <tr>
+      <!-- Left: About Text -->
+      <td align="left" width="60%">
+        <h3>About Me:</h3>
+        <ul>
+          <li> I'm a Computer Science Student at UCLA, who loves building user-first web apps and exploring product strategy.</li>
+          &nbsp;&nbsp;<i>👉 Fast learner / Active listener / Team-oriented</i>
+          <li> I have experience in full-stack development and am actively growing my skills in product management.</li>
+          <li> I enjoy analyzing real user needs and turning insights into intuitive, functional designs</li>
+          <li> Currently exploring product management and front-end development opportunities.</li>
+        </ul>
+          📬 How to reach me:     
+          <a href="https://linkedin.com/in/yutinghou-cs" target="_blank"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" height="30" /></a>
+          <a href="mailto:ythou00@gmail.com" target="_blank"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gmail-Light.svg" height="30" /></a>
+          <p>🧠 MBTI: ENFP / 🎶 Music: Pop, K-Pop, Rap, R&B / HUGE Movie Lover 🍿.</p>
+      </td>
+      <!-- Right: Image -->
+      <td align="center" width="40%">
+        <img src="https://www.nicepng.com/png/full/836-8364718_monsters-inc-png-mike-y-sulley-en-monsters.png" alt="coding" width="300"/>
+      </td>
+    </tr>
+  </table>
+</div>
 
-## 🌐 Socials:
-<a href="https://linkedin.com/in/yutinghou-cs" target="_blank"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" height="45" /></a>
-<a href="mailto:ythou00@gmail.com" target="_blank"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gmail-Light.svg" height="45" /></a>
-
+<hr/>
 ## 💻 Languages & Tools:
 <div align="Left">  
  <a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="40" /></a>
@@ -37,9 +56,8 @@
   <a href="https://www.notion.so/" target="_blank"><img style="margin: 10px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Notion-Dark.svg" alt="Notion" height="40" /></a> 
 </div>
 
-
+<hr/>
 ## 📊 GitHub Stats
-
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=ythou00&theme=apprentice&hide_border=true&include_all_commits=true&count_private=true" width="400" style="margin-right: 80px;"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ythou00&theme=apprentice&hide_border=true&layout=compact" width="350"/>
