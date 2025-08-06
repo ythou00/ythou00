@@ -34,7 +34,7 @@
 </div>
 
 <hr/>
-## 💻 Languages & Tools:
+<h2>💻 Languages & Tools:</h2>
 <div align="Left">  
  <a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="40" /></a>
   <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="40" /></a>
@@ -57,7 +57,7 @@
 </div>
 
 <hr/>
-## 📊 GitHub Stats
+<h2>📊 GitHub Stats</h2>
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=ythou00&theme=apprentice&hide_border=true&include_all_commits=true&count_private=true" width="400" style="margin-right: 80px;"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ythou00&theme=apprentice&hide_border=true&layout=compact" width="350"/>
