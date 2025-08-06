@@ -60,26 +60,11 @@
 <h2>📊 GitHub Stats</h2>
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=ythou00&theme=apprentice&hide_border=true&include_all_commits=true&count_private=true" width="400" style="margin-right: 80px;"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ythou00&theme=apprentice&hide_border=true&layout=compact" width="350"/>
+<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ythou00&theme=apprentice&hide_border=true&layout=compact" width="350"/> -->
+  <img src="https://nirzak-streak-stats.vercel.app/?user=ythou00&theme=apprentice&hide_border=true" width="410"/>
 </div>
-
-<br/>
-
-<img align="left" src="https://nirzak-streak-stats.vercel.app/?user=ythou00&theme=apprentice&hide_border=true" width="400"/>
-
-<br/><br/><br/><br/><br/><br/>
-
 <!--
-**ythou00/ythou00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<br/>
+<img align="left" src="https://nirzak-streak-stats.vercel.app/?user=ythou00&theme=apprentice&hide_border=true" width="400"/>
+<br/><br/><br/><br/><br/><br/>
 -->
