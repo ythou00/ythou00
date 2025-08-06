@@ -9,6 +9,11 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+
+## 📅 Isometric GitHub Calendar
+
+![Metrics](./metrics.plugin.isocalendar.svg)
+
 <!--
 **ythou00/ythou00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
