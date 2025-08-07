@@ -1,5 +1,5 @@
 
-<img src="./src/github-header-banne-final.png" alt="header"/>
+<img src="./src/github-header-banne-final.png" alt="header" width="800" height="190"/>
 <!-- <h1 align="center">Hi 👋, I'm Yu-Ting Hou</h1>
 <p align="center">
   🎓 CS Student
