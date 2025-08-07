@@ -21,7 +21,7 @@
         </ul>
           📬 How to reach me:     
           <a href="https://linkedin.com/in/yutinghou-cs" target="_blank"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" height="30" /></a>
-          <a href="mailto:ythou00@gmail.com" target="_blank"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gmail-Light.svg" height="30" /></a>
+          <a href="mailto:yt021h@gmail.com" target="_blank"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gmail-Light.svg" height="30" /></a>
           <p>🧠 MBTI: ENFP / 🎶 Music: Pop, K-Pop, Rap, R&B / HUGE Movie Lover 🍿.</p>
       </td>
       <!-- Right: Image -->
