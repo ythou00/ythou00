@@ -26,7 +26,7 @@
       </td>
       <!-- Right: Image -->
       <td align="center" width="40%">
-        <img src="https://www.nicepng.com/png/full/836-8364718_monsters-inc-png-mike-y-sulley-en-monsters.png" alt="coding" width="300"/>
+        <img src="https://i.pinimg.com/originals/1b/cb/53/1bcb531e414ab066e2ac38b02b03ceb0.gif" alt="coding" width="300"/>
       </td>
     </tr>
   </table>
