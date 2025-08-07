@@ -4,8 +4,6 @@
   🎓 CS Student
 </p>
 
-<hr/>
-
 <!-- About Me Section -->
 <div align="center">
   <table>
