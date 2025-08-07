@@ -1,8 +1,9 @@
-<h1 align="center">Hi 👋, I'm Yu-Ting Hou</h1>
 
+<img src="./src/github-header-banner.png" alt="header"/>
+<!-- <h1 align="center">Hi 👋, I'm Yu-Ting Hou</h1>
 <p align="center">
   🎓 CS Student
-</p>
+</p> -->
 
 <!-- About Me Section -->
 <div align="center">
@@ -12,7 +13,7 @@
       <td align="left" width="60%">
         <h2>About Me:</h2>
         <ul>
-          <li> I'm a Computer Science Student at UCLA, who loves building user-first web apps and exploring product strategy.</li>
+          <li> I'm a Computer Science Student at UCLA👋 who loves building user-first web apps and exploring product strategy.</li>
           &nbsp;&nbsp;<i>👉 Fast learner / Active listener / Team-oriented</i>
           <li> I have experience in full-stack development and am actively growing my skills in product management.</li>
           <li> I enjoy analyzing real user needs and turning insights into intuitive, functional designs</li>
