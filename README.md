@@ -58,7 +58,7 @@
 <hr/>
 <h2>📊 GitHub Stats</h2>
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ythou00&theme=apprentice&hide_border=false&include_all_commits=false&count_private=false" width="400" style="margin-right: 80px;"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ythou00&theme=apprentice&hide_border=false&include_all_commits=false&count_private=false" width="380" style="margin-right: 80px;"/>
 <!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ythou00&theme=apprentice&hide_border=true&layout=compact" width="350"/> -->
   <img src="https://nirzak-streak-stats.vercel.app/?user=ythou00&theme=apprentice&hide_border=false" width="440"/>
 </div>
