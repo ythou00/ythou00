@@ -1,5 +1,5 @@
 
-<img src="./src/Make your README.png" alt="header"/>
+<img src="./src/figma-banner.png" alt="header"/>
 <!-- <h1 align="center">Hi 👋, I'm Yu-Ting Hou</h1>
 <p align="center">
   🎓 CS Student
